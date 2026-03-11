@@ -38,11 +38,5 @@ data through embedded firmware.
 
 ## Future Extensions
 - [ ] Wi-Fi integration for IoT cloud logging
-- [ ] LCD/OLED display for standalone visualization
-- [ ] Threshold-based alerts for unsafe air quality
 - [ ] MQ135 calibration for specific gas detection
 
-## Circuit Diagram
-> Add your circuit diagram image here
-
-Data visualization using graphs or dashboards
